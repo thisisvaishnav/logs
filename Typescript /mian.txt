@@ -1,3 +1,0 @@
-ts is is basicallt iwht types in js
-
-tsc compiler lets you convert ts code into js
